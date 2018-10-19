@@ -1,5 +1,7 @@
 # LiceNjs
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/licenjs.svg)](https://www.guardrails.io)
+
 LiceNjs generates license files. No more hunting down licenses from other projects.
 
 The whole project/idea was inspired/stolen from [jcarbaugh](https://github.com/jcarbaugh/)'s own [lice](https://github.com/jcarbaugh/lice) project and rewritten for us javascript lovers who fear snakes ;)
